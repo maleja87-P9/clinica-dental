@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "administrador",
+        "permisos": ["pacientes", "citas", "historial", "facturacion", "reportes", "notificaciones"],
+        "descripcion": "Acceso completo a la operacion del sprint 3."
+    },
+    {
+        "nombre": "recepcionista",
+        "permisos": ["pacientes", "citas", "facturacion", "notificaciones"],
+        "descripcion": "Gestiona agenda, pacientes, cobros y recordatorios."
+    },
+    {
+        "nombre": "odontologo",
+        "permisos": ["pacientes", "citas", "historial", "reportes"],
+        "descripcion": "Consulta agenda, actualiza historial y revisa reportes."
+    }
+]
