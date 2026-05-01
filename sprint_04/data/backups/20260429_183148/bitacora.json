@@ -1,0 +1,162 @@
+[
+    {
+        "fecha": "2026-04-29 11:25:48",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 12:55:00",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 12:58:56",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 13:10:14",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 14:34:07",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 14:44:54",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 14:48:13",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 14:53:39",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 14:54:58",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 17:23:36",
+        "usuario": "admi",
+        "rol": "sistema",
+        "accion": "login",
+        "detalle": "Intento de acceso con usuario inexistente.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 17:24:07",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:24:10",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "backup_diario",
+        "detalle": "Backup diario creado en C:\\Users\\Andres\\Desktop\\proyectoSoftwareMaria\\sprint (3)\\sprint (2)\\sprint\\sprint_04\\data\\backups\\20260429_172410.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:27:27",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:29:14",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:37:58",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:38:21",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:43:06",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 18:12:50",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 18:24:37",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "logout",
+        "detalle": "Cierre de sesión.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 18:30:54",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    }
+]

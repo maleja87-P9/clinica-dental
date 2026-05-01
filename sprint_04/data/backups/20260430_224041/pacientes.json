@@ -1,0 +1,40 @@
+[
+    {
+        "documento": "1234567",
+        "nombre": "Pedro perez",
+        "telefono": "654321",
+        "correo": "pedro@gmail.com",
+        "direccion": "calle 12 # 21-30",
+        "historial": []
+    },
+    {
+        "documento": "123456",
+        "nombre": "pedro mendez",
+        "telefono": "654321",
+        "correo": "pedro@gmail.com",
+        "direccion": "calle 12 # 3-32",
+        "historial": [
+            "HIST-20260430113939-BF531A"
+        ]
+    },
+    {
+        "documento": "12345678",
+        "nombre": "samir perez",
+        "telefono": "7654321",
+        "correo": "sami@gmail.com",
+        "direccion": "calle modelo",
+        "historial": [
+            "HIST-20260430115826-C9EB18"
+        ]
+    },
+    {
+        "documento": "12345",
+        "nombre": "samir narvae",
+        "telefono": "654321",
+        "correo": "samir@gmail.com",
+        "direccion": "calle loma",
+        "historial": [
+            "HIST-20260430125637-410AB9"
+        ]
+    }
+]

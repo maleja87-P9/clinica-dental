@@ -1,0 +1,50 @@
+[
+    {
+        "id_pago": "PAG-20260429182228-A9E9C2",
+        "id_factura": "FAC-20260429182155-63574D",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-29",
+        "valor_pagado": 100.0,
+        "metodo_pago": "Tarjeta"
+    },
+    {
+        "id_pago": "PAG-20260430114043-F93183",
+        "id_factura": "FAC-20260430114021-DDC27D",
+        "documento_paciente": "123456",
+        "fecha": "2026-04-30",
+        "valor_pagado": 200.0,
+        "metodo_pago": "Tarjeta"
+    },
+    {
+        "id_pago": "PAG-20260430115923-603D07",
+        "id_factura": "FAC-20260430115908-53EF70",
+        "documento_paciente": "12345678",
+        "fecha": "2026-04-30",
+        "valor_pagado": 100.0,
+        "metodo_pago": "Efectivo"
+    },
+    {
+        "id_pago": "PAG-20260430125820-2CC92C",
+        "id_factura": "FAC-20260430125743-1C290A",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-30",
+        "valor_pagado": 50.0,
+        "metodo_pago": "Tarjeta"
+    },
+    {
+        "id_pago": "PAG-20260430224809-6B89BE",
+        "id_factura": "FAC-20260430224749-47C426",
+        "documento_paciente": "1234567",
+        "fecha": "2026-04-30",
+        "valor_pagado": 100.0,
+        "metodo_pago": "Tarjeta"
+    },
+    {
+        "id_pago": "PAG-20260430231433-9AB004",
+        "id_factura": "FAC-20260430231407-801130",
+        "documento_paciente": "123456789",
+        "fecha": "2026-04-30",
+        "valor_pagado": 90.0,
+        "metodo_pago": "Tarjeta"
+    }
+]

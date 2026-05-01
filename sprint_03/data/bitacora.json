@@ -1,0 +1,26 @@
+[
+    {
+        "fecha": "2026-04-29 17:29:55",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Contraseña incorrecta.",
+        "resultado": "ERROR"
+    },
+    {
+        "fecha": "2026-04-29 17:30:03",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "login",
+        "detalle": "Inicio de sesión exitoso.",
+        "resultado": "OK"
+    },
+    {
+        "fecha": "2026-04-29 17:30:27",
+        "usuario": "admin",
+        "rol": "administrador",
+        "accion": "logout",
+        "detalle": "Cierre de sesión.",
+        "resultado": "OK"
+    }
+]

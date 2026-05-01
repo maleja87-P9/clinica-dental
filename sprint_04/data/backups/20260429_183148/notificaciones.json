@@ -1,0 +1,29 @@
+[
+    {
+        "id_notificacion": "NOT-20260429181936-BE0845",
+        "documento_paciente": "12345",
+        "tipo": "Confirmación de cita",
+        "mensaje": "Su cita quedó agendada para el 2025-10-06 a las 06:30 con Dr. Sofía Herrera.",
+        "estado": "Registrada",
+        "fecha_creacion": "2026-04-29 18:19:36",
+        "referencia": "CITA-20260429181936-F92973"
+    },
+    {
+        "id_notificacion": "NOT-20260429181936-9A0384",
+        "documento_paciente": "12345",
+        "tipo": "Recordatorio",
+        "mensaje": "Recordatorio: tiene una cita el 2025-10-06 a las 06:30 por motivo 'limpiesa'.",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-29 18:19:36",
+        "referencia": "CITA-20260429181936-F92973"
+    },
+    {
+        "id_notificacion": "NOT-20260429182340-2ED48C",
+        "documento_paciente": "12345",
+        "tipo": "Confirmación de cita",
+        "mensaje": "por favor asistir a su cita puntual a las 6 y media",
+        "estado": "Enviada",
+        "fecha_creacion": "2026-04-29 18:23:40",
+        "referencia": ""
+    }
+]

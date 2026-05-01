@@ -1,0 +1,20 @@
+[
+    {
+        "id_factura": "FAC-20260429182155-63574D",
+        "documento_paciente": "12345",
+        "nombre_paciente": "maria A",
+        "fecha": "2026-04-29",
+        "concepto": "tenemos que limpiar profundamente",
+        "valor_total": 100.0,
+        "estado_pago": "Pagada"
+    },
+    {
+        "id_factura": "FAC-20260430114021-DDC27D",
+        "documento_paciente": "123456",
+        "nombre_paciente": "pedro mendez",
+        "fecha": "2026-04-30",
+        "concepto": "limpieza",
+        "valor_total": 200.0,
+        "estado_pago": "Pagada"
+    }
+]

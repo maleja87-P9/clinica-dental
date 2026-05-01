@@ -1,0 +1,42 @@
+[
+    {
+        "id_cita": "CITA-20260429145356-2678F7",
+        "documento_paciente": "102030",
+        "nombre_paciente": "Maria Alejandra Robot",
+        "fecha": "2026-04-29",
+        "hora": "14:53",
+        "motivo": "Revision Sprint 4",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260429145515-BB2B23",
+        "documento_paciente": "102030",
+        "nombre_paciente": "Maria Alejandra Robot",
+        "fecha": "2026-04-29",
+        "hora": "14:55",
+        "motivo": "Revision Sprint 4",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260429181936-F92973",
+        "documento_paciente": "12345",
+        "nombre_paciente": "maria A",
+        "fecha": "2025-10-06",
+        "hora": "06:30",
+        "motivo": "limpiesa",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-DEMO-001",
+        "documento_paciente": "123456",
+        "nombre_paciente": "pedro mendez",
+        "fecha": "2026-05-09",
+        "hora": "06:30",
+        "motivo": "Limpieza",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    }
+]

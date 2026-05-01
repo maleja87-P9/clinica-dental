@@ -1,0 +1,20 @@
+[
+    {
+        "documento": "1234567",
+        "nombre": "Pedro perez",
+        "telefono": "654321",
+        "correo": "pedro@gmail.com",
+        "direccion": "calle 12 # 21-30",
+        "historial": []
+    },
+    {
+        "documento": "123456",
+        "nombre": "pedro mendez",
+        "telefono": "654321",
+        "correo": "pedro@gmail.com",
+        "direccion": "calle 12 # 3-32",
+        "historial": [
+            "HIST-20260430113939-BF531A"
+        ]
+    }
+]

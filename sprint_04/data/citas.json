@@ -1,0 +1,72 @@
+[
+    {
+        "id_cita": "CITA-20260429145515-BB2B23",
+        "documento_paciente": "1234567",
+        "nombre_paciente": "Manuel lopez",
+        "fecha": "2026-05-12",
+        "hora": "05:30",
+        "motivo": "Revision",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260429181936-F92973",
+        "documento_paciente": "12345",
+        "nombre_paciente": "maria A",
+        "fecha": "2025-10-06",
+        "hora": "06:30",
+        "motivo": "limpiesa",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-DEMO-001",
+        "documento_paciente": "123456",
+        "nombre_paciente": "pedro mendez",
+        "fecha": "2026-05-09",
+        "hora": "06:30",
+        "motivo": "Limpieza",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-DEMO-001",
+        "documento_paciente": "12345678",
+        "nombre_paciente": "samir perez",
+        "fecha": "2026-05-10",
+        "hora": "06:30",
+        "motivo": "Limpieza general",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260430125455-9D1A3C",
+        "documento_paciente": "12345",
+        "nombre_paciente": "samir narvae",
+        "fecha": "2026-07-30",
+        "hora": "08:00",
+        "motivo": "retirar braques",
+        "odontologo": "carlos perlasa",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260430224426-D4DFDA",
+        "documento_paciente": "1234567",
+        "nombre_paciente": "Manuel lopez",
+        "fecha": "2026-07-12",
+        "hora": "06:00",
+        "motivo": "dolor de muela",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    },
+    {
+        "id_cita": "CITA-20260430230849-31CC5B",
+        "documento_paciente": "123456789",
+        "nombre_paciente": "maria Torres",
+        "fecha": "2026-07-23",
+        "hora": "07:30",
+        "motivo": "limpieza",
+        "odontologo": "Dr. Sofía Herrera",
+        "estado": "Activa"
+    }
+]

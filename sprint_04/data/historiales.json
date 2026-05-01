@@ -1,0 +1,56 @@
+[
+    {
+        "id_registro": "HIST-20260429182107-A2EF11",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-29 18:21:07",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "limpiesa",
+        "tratamiento": "retirar caries",
+        "observaciones": "el paciente debe realizarce una limpiesa profunda urgentemente"
+    },
+    {
+        "id_registro": "HIST-20260430113939-BF531A",
+        "documento_paciente": "123456",
+        "fecha": "2026-04-30 11:39:39",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "caries avanzada",
+        "tratamiento": "limpieza profunda",
+        "observaciones": "el pasiente presenta caries avanzada y necesita una limpieza general"
+    },
+    {
+        "id_registro": "HIST-20260430115826-C9EB18",
+        "documento_paciente": "12345678",
+        "fecha": "2026-04-30 11:58:26",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "caries",
+        "tratamiento": "limpiesa profunda",
+        "observaciones": "caries avansada"
+    },
+    {
+        "id_registro": "HIST-20260430125637-410AB9",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-30 12:56:37",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "limpieza",
+        "tratamiento": "blanquiamiento",
+        "observaciones": "retiración de braques por higiene"
+    },
+    {
+        "id_registro": "HIST-20260430224701-4121BB",
+        "documento_paciente": "1234567",
+        "fecha": "2026-04-30 22:47:01",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "caries",
+        "tratamiento": "limpiesa profunda",
+        "observaciones": "desgaste del esmalte de los dientes por caries"
+    },
+    {
+        "id_registro": "HIST-20260430231316-14B118",
+        "documento_paciente": "123456789",
+        "fecha": "2026-04-30 23:13:16",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "caries",
+        "tratamiento": "sepillado contante",
+        "observaciones": "se le decteto al paciente caries avasada y se le recomienda sepillado contante"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "id_notificacion": "NOT-20260429181936-BE0845",
+        "documento_paciente": "12345",
+        "tipo": "Confirmación de cita",
+        "mensaje": "Su cita quedó agendada para el 2025-10-06 a las 06:30 con Dr. Sofía Herrera.",
+        "estado": "Registrada",
+        "fecha_creacion": "2026-04-29 18:19:36",
+        "referencia": "CITA-20260429181936-F92973"
+    },
+    {
+        "id_notificacion": "NOT-20260429181936-9A0384",
+        "documento_paciente": "12345",
+        "tipo": "Recordatorio",
+        "mensaje": "Recordatorio: tiene una cita el 2025-10-06 a las 06:30 por motivo 'limpiesa'.",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-29 18:19:36",
+        "referencia": "CITA-20260429181936-F92973"
+    },
+    {
+        "id_notificacion": "NOT-20260429182340-2ED48C",
+        "documento_paciente": "12345",
+        "tipo": "Confirmación de cita",
+        "mensaje": "por favor asistir a su cita puntual a las 6 y media",
+        "estado": "Enviada",
+        "fecha_creacion": "2026-04-29 18:23:40",
+        "referencia": ""
+    },
+    {
+        "id_notificacion": "NOT-20260430113734-0C89CD",
+        "documento_paciente": "123456",
+        "tipo": "Confirmación de cita",
+        "mensaje": "Su cita quedó agendada para el 2026-05-02 a las 06:30 con Dr. Sofía Herrera.",
+        "estado": "Registrada",
+        "fecha_creacion": "2026-04-30 11:37:34",
+        "referencia": "CITA-DEMO-001"
+    },
+    {
+        "id_notificacion": "NOT-20260430113734-466C19",
+        "documento_paciente": "123456",
+        "tipo": "Recordatorio",
+        "mensaje": "Recordatorio: tiene una cita el 2026-05-02 a las 06:30 por motivo 'Limpieza general'.",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-30 11:37:34",
+        "referencia": "CITA-DEMO-001"
+    },
+    {
+        "id_notificacion": "NOT-20260430114335-28E744",
+        "documento_paciente": "123456",
+        "tipo": "Recordatorio",
+        "mensaje": "tu cita esta programada para el miercoles 09 de mayo",
+        "estado": "Enviada",
+        "fecha_creacion": "2026-04-30 11:43:35",
+        "referencia": ""
+    },
+    {
+        "id_notificacion": "NOT-20260430115746-FE7B33",
+        "documento_paciente": "12345678",
+        "tipo": "Confirmación de cita",
+        "mensaje": "Su cita quedó agendada para el 2026-05-10 a las 06:30 con Dr. Sofía Herrera.",
+        "estado": "Registrada",
+        "fecha_creacion": "2026-04-30 11:57:46",
+        "referencia": "CITA-DEMO-001"
+    },
+    {
+        "id_notificacion": "NOT-20260430115746-7EC9F4",
+        "documento_paciente": "12345678",
+        "tipo": "Recordatorio",
+        "mensaje": "Recordatorio: tiene una cita el 2026-05-10 a las 06:30 por motivo 'Limpieza general'.",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-30 11:57:46",
+        "referencia": "CITA-DEMO-001"
+    },
+    {
+        "id_notificacion": "NOT-20260430120116-D754B1",
+        "documento_paciente": "12345678",
+        "tipo": "Confirmación de cita",
+        "mensaje": "por favor asistir a su cita puntual a las 6 y media",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-30 12:01:16",
+        "referencia": ""
+    },
+    {
+        "id_notificacion": "NOT-20260430125455-C3EE0E",
+        "documento_paciente": "12345",
+        "tipo": "Confirmación de cita",
+        "mensaje": "Su cita quedó agendada para el 2026-07-30 a las 08:00 con carlos perlasa.",
+        "estado": "Registrada",
+        "fecha_creacion": "2026-04-30 12:54:55",
+        "referencia": "CITA-20260430125455-9D1A3C"
+    },
+    {
+        "id_notificacion": "NOT-20260430125455-BCD78D",
+        "documento_paciente": "12345",
+        "tipo": "Recordatorio",
+        "mensaje": "Recordatorio: tiene una cita el 2026-07-30 a las 08:00 por motivo 'retirar braques'.",
+        "estado": "Pendiente",
+        "fecha_creacion": "2026-04-30 12:54:55",
+        "referencia": "CITA-20260430125455-9D1A3C"
+    }
+]

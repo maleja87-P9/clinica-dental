@@ -1,0 +1,10 @@
+[
+    {
+        "id_pago": "PAG-20260429182228-A9E9C2",
+        "id_factura": "FAC-20260429182155-63574D",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-29",
+        "valor_pagado": 100.0,
+        "metodo_pago": "Tarjeta"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "id_registro": "HIST-20260429182107-A2EF11",
+        "documento_paciente": "12345",
+        "fecha": "2026-04-29 18:21:07",
+        "odontologo": "Dr. Sofía Herrera",
+        "diagnostico": "limpiesa",
+        "tratamiento": "retirar caries",
+        "observaciones": "el paciente debe realizarce una limpiesa profunda urgentemente"
+    }
+]

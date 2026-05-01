@@ -1,0 +1,58 @@
+[
+    {
+        "documento": "18266489374",
+        "nombre": "María González",
+        "telefono": "3163485380",
+        "correo": "maria.gonzalez@example.com",
+        "direccion": "Calle 10 # 22-31",
+        "historial": []
+    },
+    {
+        "documento": "12647836493",
+        "nombre": "José Ramírez",
+        "telefono": "3125648590",
+        "correo": "jose.ramirez@example.com",
+        "direccion": "Carrera 15 # 8-44",
+        "historial": []
+    },
+    {
+        "documento": "1020304050",
+        "nombre": "Carlos Robot Automatizado",
+        "telefono": "3001234567",
+        "correo": "robot.prueba@clinica.com",
+        "direccion": "Calle 100 # 15-20, Bogota",
+        "historial": []
+    },
+    {
+        "documento": "1098765432",
+        "nombre": "Carlos Manuel Robot",
+        "telefono": "3104445566",
+        "correo": "carlos.robot@gmail.com",
+        "direccion": "Calle 45 # 10-20",
+        "historial": []
+    },
+    {
+        "documento": "102030",
+        "nombre": "Maria Alejandra Robot",
+        "telefono": "3214567890",
+        "correo": "carlos@gmail.com",
+        "direccion": "calla 12 # 3-54",
+        "historial": []
+    },
+    {
+        "documento": "14253",
+        "nombre": "maria",
+        "telefono": "3142664",
+        "correo": "maria@gmail.com",
+        "direccion": "paraiso",
+        "historial": []
+    },
+    {
+        "documento": "123456",
+        "nombre": "pedro perez",
+        "telefono": "54321",
+        "correo": "perez@gmail.com",
+        "direccion": "calle 23 # 4-25",
+        "historial": []
+    }
+]

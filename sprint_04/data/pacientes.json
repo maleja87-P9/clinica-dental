@@ -1,0 +1,30 @@
+[
+    {
+        "documento": "1234567",
+        "nombre": "Manuel lopez",
+        "telefono": "88899922",
+        "correo": "manu@gmail.com",
+        "direccion": "calle modelo",
+        "historial": [
+            "HIST-20260430224701-4121BB"
+        ]
+    },
+    {
+        "documento": "1234",
+        "nombre": "Andrea martinez",
+        "telefono": "33344422",
+        "correo": "martinez@gmail.com",
+        "direccion": "calle 12 # 2-34",
+        "historial": []
+    },
+    {
+        "documento": "123456789",
+        "nombre": "maria Torres",
+        "telefono": "33322211",
+        "correo": "mari@gmail.com",
+        "direccion": "calle horizonte",
+        "historial": [
+            "HIST-20260430231316-14B118"
+        ]
+    }
+]

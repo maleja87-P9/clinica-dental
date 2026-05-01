@@ -1,0 +1,11 @@
+Pacientes registrados
+Total de pacientes registrados: 7
+
+Documento,Nombre,Telefono,Correo,Direccion
+18266489374,María González,3163485380,maria.gonzalez@example.com,Calle 10 # 22-31
+12647836493,José Ramírez,3125648590,jose.ramirez@example.com,Carrera 15 # 8-44
+1020304050,Carlos Robot Automatizado,3001234567,robot.prueba@clinica.com,"Calle 100 # 15-20, Bogota"
+1098765432,Carlos Manuel Robot,3104445566,carlos.robot@gmail.com,Calle 45 # 10-20
+102030,Maria Alejandra Robot,3214567890,carlos@gmail.com,calla 12 # 3-54
+14253,maria,3142664,maria@gmail.com,paraiso
+12345,maria A,31245,mari@gmail.com,calle # 12-32
